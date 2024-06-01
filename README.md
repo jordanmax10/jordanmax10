@@ -47,7 +47,6 @@ Quito -Ecuador,
   <code><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white" /></code> 
   <code><img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-square&logo=firebase" /></code> 
   <code><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-square&logo=Microsoft%20SQL%20Server&logoColor=white"/> </code>
-  <code><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-square&logo=mongodb&logoColor=white" /></code> 
 
   <br>
 <br><br>
