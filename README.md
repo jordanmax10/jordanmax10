@@ -22,9 +22,10 @@ Quito -Ecuador,
 
   <code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" /></code> 
   <code><img alt="PHP" src="https://img.shields.io/badge/-PHP-CB3837?style=flat-square&logo=php&logoColor=white" /></code>
-  <code><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" /></code> 
+  <code><img alt="C#" src="https://img.shields.io/badge/C%23-.NET-5C2D91?logo=c-sharp&logoColor=white" />
+</code>
   <code><img alt="Java" src="https://img.shields.io/badge/-Java-white?logo=Java&logoColor=white" /></code> 
-  <code> <img src="https://img.shields.io/badge/Dart-black.svg?style=for-square&logo=dart&logoColor=white"> </code> 
+   
 
   <li>🧰🛠️ Frameworks y Librerias</li>
   
@@ -45,14 +46,11 @@ Quito -Ecuador,
   <li>📂📃 Bases de Datos</li>
   <code><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white" /></code> 
   <code><img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-square&logo=firebase" /></code> 
+  <code><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-square&logo=Microsoft%20SQL%20Server&logoColor=white"/> </code>
   <code><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-square&logo=mongodb&logoColor=white" /></code> 
 
   <br>
-
-  <li>Redes Sociales</li>
-
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
+<br><br>
 
 ``` 
 GRACIAS
