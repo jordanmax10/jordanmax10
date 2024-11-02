@@ -20,18 +20,17 @@ Quito -Ecuador,
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
-  <code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" /></code> 
   <code><img alt="PHP" src="https://img.shields.io/badge/-PHP-CB3837?style=flat-square&logo=php&logoColor=white" /></code>
-  <code><img alt="C#" src="https://img.shields.io/badge/C%23-.NET-5C2D91?logo=c-sharp&logoColor=white" />
-</code>
-  <code><img alt="Java" src="https://img.shields.io/badge/-Java-white?logo=Java&logoColor=white" /></code> 
+  <code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" /></code> 
+  <code><img alt="C#" src="https://img.shields.io/badge/C%23-.NET-5C2D91?logo=c-sharp&logoColor=white" /></code>
+
    
 
   <li>🧰🛠️ Frameworks y Librerias</li>
   
   
   <code><img alt="Laravel" src="https://img.shields.io/badge/Laravel-white?logo=laravel" /></code> 
- <code> <img alt="Vue.JS" src="https://img.shields.io/badge/Vue.JS-gray?logo=vue.js"></code>
+ <code> <img alt="Angular" src="https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white"></code>
  <code><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple.svg?style=for-square&logo=Bootstrap&logoColor=white" /></code> 
 
   <li>💼 Herramientas de Desarrollo</li>
